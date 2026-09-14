@@ -13,7 +13,7 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 →Lineako zinema-jaialdien estaldura eta proiekzio esklusiboak.
 →Balorazioak, iritziak eta zerrendak sortzeko oinarrizko sistema.
 
-★Userprofila★
+### ★Userprofila★
 
 →Adin guztietarako orrialdea izango da.
 
