@@ -27,30 +27,25 @@ __Aurkikuntza- eta erregistro-fluxua__
 
 ```
 
-[Hasierako orria] 
+[Hasierako orria]
 
        │
-       
        ▼
-       
-[Arakatu katalogoa] 
+[Arakatu katalogoa]
 
        │
-       
        ▼
-       
-[Sakatu "Ikusi filma" edo "Parte hartu foroan"] 
 
-       │
-       
-       ▼
-       
-[Erregistratzeko / Kontua sortzeko pantaila] 
+[Sakatu "Ikusi filma" edo "Parte hartu foroan"]
 
-       │
-       
+       │       
        ▼
-       
+
+[Erregistratzeko / Kontua sortzeko pantaila]
+
+       │    
+       ▼
+  
 [Erabiltzailearen panel pertsonalizatua]
 ```
 ### ★Krokisa★
