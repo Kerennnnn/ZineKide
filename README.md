@@ -19,8 +19,8 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 ## <p align="center">--------------------ARKITEKTURA--------------------</p>
 ### ★Nabigazio mapa★
--Atal ezbederdinak ikusi ahal izateko, menu batek edukiko dute bertatik sartu ahal izateko.
--Edozer konkretuki bistaratzea nahi baduzu, bilakera lupa bat edukiko du zuk idatzi eta bilatu ahal izateko
+→Atal ezbederdinak ikusi ahal izateko, menu batek edukiko dute bertatik sartu ahal izateko.
+→Edozer konkretuki bistaratzea nahi baduzu, bilakera lupa bat edukiko du zuk idatzi eta bilatu ahal izateko
 
 ### ★User flows★
 __Aurkikuntza- eta erregistro-fluxua__
