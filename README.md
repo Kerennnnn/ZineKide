@@ -23,7 +23,7 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 →Edozer konkretuki bistaratzea nahi baduzu, bilakera lupa bat edukiko du zuk idatzi eta bilatu ahal izateko
 
 ### ★User flows★
-__୨ৎAurkikuntza- eta erregistro-fluxua୨ৎ__
+__Aurkikuntza- eta erregistro-fluxua__
 
 ```
 
@@ -47,6 +47,20 @@ __୨ৎAurkikuntza- eta erregistro-fluxua୨ৎ__
        ▼
   
 [Erabiltzailearen panel pertsonalizatua]
+```
+__Komunitatearen arteko elkarreragin-fluxua__
+```
+[Menu nagusia: Komunitatea / Foroak] 
+       │
+       ▼
+[Gaien zerrenda] (filma eta zuzendaria)
+       │
+       ▼
+[Irakurri eztabaida-haria] 
+       │
+       ▼
+[Erantzuna / Iruzkina argitaratu] 
+
 ```
 ### ★Krokisa★
 
