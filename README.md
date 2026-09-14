@@ -8,4 +8,10 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 →
 ★Userprofila★
 →Adin guztietarako orrialdea izango da.
---------------------IKERKETA--------------------
+--------------------ARKITEKTURA--------------------
+★Nabigazio mapa★
+-Atal ezbederdinak ikusi ahal izateko, menu batek edukiko dute bertatik sartu ahal izateko.
+-Edozer konkretuki bistaratzea nahi baduzu, bilakera lupa bat edukiko du zuk idatzi eta bilatu ahal izateko
+★User flows★
+
+★Krokisa★
