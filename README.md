@@ -3,4 +3,9 @@ Orrialde honetan, zinema alternatibo eta independetearen inguruko komunitatearen
 bertan, streaming emanaldiak egongo dira ikusi ahal izateko eta kontu bat sortzen baldin baduzu, aukera
 izango duzu eztabaida-foruetan zure iritzia esateko edota lagun berriak egin kendearekin eztabaidatzen eta
 aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izatea.
---------------------IKERKETA-------------------
+--------------------IKERKETA--------------------
+★Benchmark★
+→
+★Userprofila★
+→Adin guztietarako orrialdea izango da.
+--------------------IKERKETA--------------------
