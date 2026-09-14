@@ -10,7 +10,9 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 ### ★Benchmark★
 
 →Egile-zinema, zinema klasikoa eta zinema independentea. Katalogoa egunero aldatuko da.
+
 →Lineako zinema-jaialdien estaldura eta proiekzio esklusiboak.
+
 →Balorazioak, iritziak eta zerrendak sortzeko oinarrizko sistema.
 
 ### ★Userprofila★
@@ -20,6 +22,7 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 ## <p align="center">--------------------ARKITEKTURA--------------------</p>
 ### ★Nabigazio mapa★
 →Atal ezbederdinak ikusi ahal izateko, menu batek edukiko dute bertatik sartu ahal izateko.
+
 →Orrialdea luzea bada edukiko du botoi bat gora joateko.
 
 
