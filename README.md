@@ -20,7 +20,8 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 ## <p align="center">--------------------ARKITEKTURA--------------------</p>
 ### ★Nabigazio mapa★
 →Atal ezbederdinak ikusi ahal izateko, menu batek edukiko dute bertatik sartu ahal izateko.
-→Edozer konkretuki bistaratzea nahi baduzu, bilakera lupa bat edukiko du zuk idatzi eta bilatu ahal izateko
+→Orrialdea luzea bada edukiko du botoi bat gora joateko.
+
 
 ### ★User flows★
 __Aurkikuntza- eta erregistro-fluxua__
@@ -63,5 +64,5 @@ __Komunitatearen arteko elkarreragin-fluxua__
 
 ```
 ### ★Krokisa★
-
+<img width="1002" height="1001" alt="ZineKide krokis drawio" src="https://github.com/user-attachments/assets/a7190940-57b4-4a26-9e8a-9eed235bb575" />
 
