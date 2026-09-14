@@ -1,4 +1,4 @@
-# <center>❀Zinekide❀</center>
+# <p align="center">❀Zinekide❀</p>
 
 ## --------------------SARRERA--------------------
 Orrialde honetan, zinema alternatibo eta independetearen inguruko komunitatearen ingurukoa izango da.
