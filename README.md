@@ -23,7 +23,7 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 →Edozer konkretuki bistaratzea nahi baduzu, bilakera lupa bat edukiko du zuk idatzi eta bilatu ahal izateko
 
 ### ★User flows★
-__Aurkikuntza- eta erregistro-fluxua__
+__୨ৎAurkikuntza- eta erregistro-fluxua୨ৎ__
 
 ```
 
