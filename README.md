@@ -1,12 +1,12 @@
-# <p align="center">❀Zinekide❀
+# <p align="center">❀Zinekide❀</p>
 
-## --------------------SARRERA--------------------
+## <p align="center">--------------------SARRERA--------------------</p>
 Orrialde honetan, zinema alternatibo eta independetearen inguruko komunitatearen ingurukoa izango da.
 bertan, streaming emanaldiak egongo dira ikusi ahal izateko eta kontu bat sortzen baldin baduzu, aukera
 izango duzu eztabaida-foruetan zure iritzia esateko edota lagun berriak egin kendearekin eztabaidatzen eta
 aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izatea.
 
-## --------------------IKERKETA--------------------
+## <p align="center">--------------------IKERKETA--------------------</p>
 ### ★Benchmark★
 
 →Egile-zinema, zinema klasikoa eta zinema independentea. Katalogoa egunero aldatuko da.
@@ -17,7 +17,7 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 →Adin guztietarako orrialdea izango da.
 
-## --------------------ARKITEKTURA--------------------
+## <p align="center">--------------------ARKITEKTURA--------------------</p>
 ### ★Nabigazio mapa★
 -Atal ezbederdinak ikusi ahal izateko, menu batek edukiko dute bertatik sartu ahal izateko.
 -Edozer konkretuki bistaratzea nahi baduzu, bilakera lupa bat edukiko du zuk idatzi eta bilatu ahal izateko
@@ -50,4 +50,4 @@ __Aurkikuntza- eta erregistro-fluxua__
 ```
 ### ★Krokisa★
 
-</p>
+
