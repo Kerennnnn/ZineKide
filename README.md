@@ -15,6 +15,8 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 →Balorazioak, iritziak eta zerrendak sortzeko oinarrizko sistema.
 
+→Zinema-zuzendariekin egindako elkarrizketa interaktibo edo zuzeneko esklusiboak.
+
 ### ★Userprofila★
 
 →Adin guztietarako orrialdea izango da.
