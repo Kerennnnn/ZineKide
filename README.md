@@ -24,7 +24,9 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 ### ★User flows★
 __Aurkikuntza- eta erregistro-fluxua__
+
 ``
+
 [Hasierako orria] 
 
        │
