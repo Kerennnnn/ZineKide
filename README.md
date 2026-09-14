@@ -9,7 +9,9 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 ## --------------------IKERKETA--------------------
 ### ★Benchmark★
 
-→
+→Egile-zinema, zinema klasikoa eta zinema independentea. Katalogoa egunero aldatuko da.
+→Lineako zinema-jaialdien estaldura eta proiekzio esklusiboak.
+→Balorazioak, iritziak eta zerrendak sortzeko oinarrizko sistema.
 
 ★Userprofila★
 
@@ -19,6 +21,22 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 ### ★Nabigazio mapa★
 -Atal ezbederdinak ikusi ahal izateko, menu batek edukiko dute bertatik sartu ahal izateko.
 -Edozer konkretuki bistaratzea nahi baduzu, bilakera lupa bat edukiko du zuk idatzi eta bilatu ahal izateko
+
 ### ★User flows★
+_Aurkikuntza- eta erregistro-fluxua_
+
+[Hasierako orria] 
+       │
+       ▼
+[Arakatu katalogoa] 
+       │
+       ▼
+[Sakatu "Ikusi filma" edo "Parte hartu foroan"] 
+       │
+       ▼
+[Erregistratzeko / Kontua sortzeko pantaila] 
+       │
+       ▼
+[Erabiltzailearen panel pertsonalizatua]
 
 ### ★Krokisa★
