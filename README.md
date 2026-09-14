@@ -1,4 +1,4 @@
-# <p align="center">❀Zinekide❀</p>
+# <p align="center">❀Zinekide❀
 
 ## --------------------SARRERA--------------------
 Orrialde honetan, zinema alternatibo eta independetearen inguruko komunitatearen ingurukoa izango da.
@@ -49,3 +49,5 @@ __Aurkikuntza- eta erregistro-fluxua__
 [Erabiltzailearen panel pertsonalizatua]
 ```
 ### ★Krokisa★
+
+</p>
