@@ -8,8 +8,11 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 ## --------------------IKERKETA--------------------
 ### ★Benchmark★
+
 →
+
 ★Userprofila★
+
 →Adin guztietarako orrialdea izango da.
 
 ## --------------------ARKITEKTURA--------------------
