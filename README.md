@@ -26,17 +26,29 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 __Aurkikuntza- eta erregistro-fluxua__
 ``
 [Hasierako orria] 
+
        │
+       
        ▼
+       
 [Arakatu katalogoa] 
+
        │
+       
        ▼
+       
 [Sakatu "Ikusi filma" edo "Parte hartu foroan"] 
+
        │
+       
        ▼
+       
 [Erregistratzeko / Kontua sortzeko pantaila] 
+
        │
+       
        ▼
+       
 [Erabiltzailearen panel pertsonalizatua]
 ``
 ### ★Krokisa★
