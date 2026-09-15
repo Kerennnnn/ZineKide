@@ -27,6 +27,9 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 →Orrialdea luzea bada edukiko du botoi bat gora joateko.
 
+→Index-etik menu-aukera guztietara sar zaitezke: foroa, zuzendariarekiko elkarrizketak eta streaming emanaldiak.
+
+→Atzera bueltatzeko atzera geziari klik eman beharko zaio edota menuan hasiera sakatu.
 
 ### ★User flows★
 __Aurkikuntza- eta erregistro-fluxua__
@@ -71,5 +74,6 @@ __Komunitatearen arteko elkarreragin-fluxua__
 ### ★Krokisa★
 
 __Orrialde printzipala__
+
 <img width="1002" height="1001" alt="ZineKide krokis drawio" src="https://github.com/user-attachments/assets/a7190940-57b4-4a26-9e8a-9eed235bb575" />
 
