@@ -79,3 +79,8 @@ Hasiera profila dagoen lekuan agertuko da login bat edota erregistratu ahal izat
 
 <img width="1002" height="1001" alt="ZineKide krokis drawio" src="https://github.com/user-attachments/assets/a7190940-57b4-4a26-9e8a-9eed235bb575" />
 
+__Foro atala__
+
+<img width="800" height="892" alt="Foro atala drawio" src="https://github.com/user-attachments/assets/04e52d3c-aa58-4bc7-9f83-55a30ade2aa5" />
+
+
