@@ -69,5 +69,7 @@ __Komunitatearen arteko elkarreragin-fluxua__
 
 ```
 ### ★Krokisa★
+
+__Orrialde printzipala__
 <img width="1002" height="1001" alt="ZineKide krokis drawio" src="https://github.com/user-attachments/assets/a7190940-57b4-4a26-9e8a-9eed235bb575" />
 
