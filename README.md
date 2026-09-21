@@ -89,10 +89,10 @@ __Foro atala__
 
 →Interfaze iluna edukiko du beraz kolore paleta iluna/hotzak erabiliko dira orrialdea sortu ahal izateko.
 
-
 ### ★Tipografia★
 
 →Izenburuentzako Merriweather tipografia erabiliko dut.
+
 →Testu normala idazteko Raleway tipografia erabiliko dut.
 
 
