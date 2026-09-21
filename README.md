@@ -95,4 +95,10 @@ __Foro atala__
 
 →Testu normala idazteko Raleway tipografia erabiliko dut.
 
+### ★Ikonoak★
+
+→Footer-ean sare sozialen ikonoak jarriko ditut.
+→Orrialdeak favicon logoa edukiko du.
+→Orrialdeak bere logo bat edukiko du header-ean
+
 
