@@ -83,4 +83,15 @@ __Foro atala__
 
 <img width="800" height="892" alt="Foro atala drawio" src="https://github.com/user-attachments/assets/04e52d3c-aa58-4bc7-9f83-55a30ade2aa5" />
 
+## <p align="center">--------------------ESTILO GIDA--------------------</p>
+
+### ★Koloreak★
+
+→Interfaze iluna edukiko du beraz kolore paleta iluna/hotzak erabiliko dira orrialdea sortu ahal izateko.
+
+### ★Tipografia★
+
+→Izenburuentzako Merriweather tipografia erabiliko dut.
+→Testu normala idazteko Raleway tipografia erabiliko dut.
+
 
