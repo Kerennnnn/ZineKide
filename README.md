@@ -94,6 +94,8 @@ __Foro atala__
 
 →Izenburuentzako Merriweather tipografia erabiliko dut.
 
+→Izenburuak lodiz izango dira esta testuak baina pixka bat handiagoak izango dira.
+
 →Testu normala idazteko Raleway tipografia erabiliko dut.
 
 ### ★Ikonoak★
