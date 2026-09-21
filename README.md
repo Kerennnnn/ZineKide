@@ -112,3 +112,12 @@ __Foro atala__
 
 →Botoi honek ez dira oso handiak izango tipografiaren baina tamaina pixka bat gehiago edukiko dute.
 
+### ★Irudiak★
+
+→Sare sozialeko irudiak egongo dira, honek txikiak izango dira eta footerra-ren barruan egongo dira.
+
+→Orrialdearen logo header-aren barruan egongo da eta ertaina izango da.
+
+→Orriaren eduki irudiak handiagoak izango dira ondo ikus ahal izateko.
+
+
