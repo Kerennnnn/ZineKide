@@ -19,7 +19,9 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 ### ★Userprofila★
 
-→Adin guztietarako orrialdea izango da.
+→16 Urtetik gorakoa izango da.
+
+→Orrialdea simplea izango da.
 
 ## <p align="center">--------------------ARKITEKTURA--------------------</p>
 ### ★Nabigazio mapa★
