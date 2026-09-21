@@ -104,4 +104,11 @@ __Foro atala__
 
 →Orrialdeak bere logo bat edukiko du header-ean.
 
+→Orrialda edukiko du gezi ikono bat orrialdeak gora egin ahal izateko.
+
+### ★Botoiak★
+
+→Menuko atal/aukera guztiak botoiak izango dira beste ataletara nabigatu ahal izateko.
+
+→Botoi honek ez dira oso handiak izango tipografiaren baina tamaina pixka bat gehiago edukiko dute.
 
