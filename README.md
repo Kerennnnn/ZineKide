@@ -19,7 +19,7 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 ### ★Userprofila★
 
-→16 Urtetik gorakoa izango da.
+→16 - 35 Urteteen artean izango da.
 
 →Orrialdea simplea izango da.
 
@@ -77,7 +77,9 @@ __Komunitatearen arteko elkarreragin-fluxua__
 
 __Orrialde printzipala__
 
-Hasiera profila dagoen lekuan agertuko da login bat edota erregistratu ahal izateko botoiak bata edo bestea egin ondoren zure profila agertuko da.
+→Hasiera profila dagoen lekuan agertuko da login bat edota erregistratu ahal izateko botoiak bata edo bestea egin ondoren zure profila agertuko da.
+
+→Orrialde printzipala
 
 <img width="1002" height="1001" alt="ZineKide krokis drawio" src="https://github.com/user-attachments/assets/a7190940-57b4-4a26-9e8a-9eed235bb575" />
 
