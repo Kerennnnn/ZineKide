@@ -27,7 +27,7 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 ### ★Nabigazio mapa★
 →Atal ezbederdinak ikusi ahal izateko, menu bat edukiko du bertatik sartu ahal izateko.
 
-→Orrialdea luzea bada edukiko du botoi bat gora joateko.
+<img width="622" height="182" alt="Nabigazio mapa drawio" src="https://github.com/user-attachments/assets/951af49c-00d5-45aa-820b-c5671255e97b" />
 
 →Index-etik menu-aukera guztietara sar zaitezke: foroa, zuzendariarekiko elkarrizketak eta streaming emanaldiak.
 
