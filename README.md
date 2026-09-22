@@ -19,7 +19,7 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 ### ★Userprofila★
 
-→16 - 35 Urteteen artean izango da.
+→16 - 35 Urteen artean izango da.
 
 →Orrialdea simplea izango da.
 
