@@ -88,6 +88,11 @@ __Foro atala__
 
 <img width="800" height="892" alt="Foro atala drawio" src="https://github.com/user-attachments/assets/04e52d3c-aa58-4bc7-9f83-55a30ade2aa5" />
 
+__Mugikor formatua__
+
+<img width="1312" height="1199" alt="c0d76f43-4ef6-4f40-9f19-02fc7f49449d" src="https://github.com/user-attachments/assets/2cff49b1-672a-4412-b123-d3d0257277df" />
+
+
 ## <p align="center">--------------------ESTILO GIDA--------------------</p>
 
 ### ★Koloreak★
