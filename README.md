@@ -8,14 +8,21 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 ## <p align="center">--------------------IKERKETA--------------------</p>
 ### ★Benchmark★
+| Plataforma | Ezaugarri nagusiak | Zinekiderako interesgarria |
+|---|---|---|
+| **Netflix** | Streaming-a, bilaketa, kategoriak eta gomendio pertsonalizatuak | Nabigazio erraza eta edukien antolaketa |
+| **MUBI** | Zinema independentea eta autore-zinema, katalogo zaindua | Identitate bisuala eta filmen aurkezpena |
+| **Filmin** | Zinema independentea, europarra eta klasikoa | Katalogoaren antolaketa eta filmen sailkapena |
 
-→Egile-zinema, zinema klasikoa eta zinema independentea. Katalogoa egunero aldatuko da.
+__<ins>Ondorioak</ins>__
 
-→Lineako zinema-jaialdien estaldura eta proiekzio esklusiboak.
+**Netflix**-etik, nabigazio sinplea eta edukien antolaketa.
+**MUBI**-tik, zinema independentearen presentzia eta diseinu bisuala.
+**Filmin**-etik, filmen katalogoa eta kategoriaka antolatzeko modua.
 
-→Balorazioak, iritziak eta zerrendak sortzeko oinarrizko sistema.
+Zinekidek ideia hauek elkartu nahi ditu, baina **komunitateari eta ekitaldiei garrantzi handiagoa emanez**. Horretarako, streaming-az gain, foroak, elkarrizketak eta ekitaldien egutegia izango ditu.
 
-→Zinema-zuzendariekin egindako elkarrizketa interaktibo edo zuzeneko esklusiboak.
+Diseinuari dagokionez, **interfaze iluna eta minimalista** erabiliko da, filmen irudiei protagonismoa emateko.
 
 ### ★Userprofila★
 
