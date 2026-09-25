@@ -26,9 +26,33 @@ Diseinuari dagokionez, **interfaze iluna eta minimalista** erabiliko da, filmen 
 
 ### ★Userprofila★
 
+Zinekideren erabiltzaile nagusia zinema gustuko duen eta zinema independentea eta alternatiboa ezagutzeko interesa duen pertsona da.
+
 →16 - 35 Urteen artean izango da.
 
 →Orrialdea simplea izango da.
+
+→Nabigazio erraza eta intuitiboa.
+
+→Filmak bilatzeko eta iragazteko aukera.
+
+→Filmen informazio argia.
+
+→Gomendioak jasotzea.
+
+→Ekitaldien egutegia kontsultatzea.
+
+__<ins>Helburuak</ins>__
+
+→Film independente berriak aurkitzea.
+
+→Filmen informazioa eta iritziak kontsultatzea.
+
+→Gustuko dituen filmak gordetzea.
+
+→Zinema inguruko eztabaidetan parte hartzea.
+
+→Proiekzioak eta bestelako ekitaldiak aurkitzea.
 
 ## <p align="center">--------------------ARKITEKTURA--------------------</p>
 ### ★Nabigazio mapa★
@@ -105,7 +129,10 @@ __Mugikor formatua__
 ### ★Koloreak★
 
 →Interfaze iluna edukiko du beraz kolore paleta iluna/hotzak erabiliko dira orrialdea sortu ahal izateko.
-
+Beltza: Hex
+#000000
+Zuria: Hex
+#FFFFFF
 ### ★Tipografia★
 
 →Izenburuentzako Merriweather tipografia erabiliko dut.
