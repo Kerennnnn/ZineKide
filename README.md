@@ -157,6 +157,10 @@ Zuria: Hex
 
 →Testu normala idazteko Raleway tipografia erabiliko da.
 
+→Izenburuak 24 tamainekoa izango da.
+
+→textua 16-18ko tamaina izango du.
+
 ### ★Ikonoak★
 
 →Footer-ean sare sozialen ikonoak jarriko dira.
