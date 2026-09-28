@@ -123,27 +123,43 @@ __Mugikor formatua__
 
 <img width="1312" height="1199" alt="c0d76f43-4ef6-4f40-9f19-02fc7f49449d" src="https://github.com/user-attachments/assets/2cff49b1-672a-4412-b123-d3d0257277df" />
 
+__Erabilgarritasuna__
+
+→Sistemaren eta mundu errealaren arteko erlazioa: erabiltzaileek ezagutzen dituzten 'Like', 'Comment', 'Share' eta 'Account' bezalako terminoak eta ekintzak erabiltzen ditu.
+
+→Sendotasuna eta estandarrak: elementu desberdinentzako egitura bisual koherentea.
+
+→Ezagutzea, gogoratzea baino hobeto: aukera nagusiak argi ikus daitezke eta ez diote erabiltzaileari komandoak gogoratu beharrik uzten.
+
+→Erabilera malgutasuna eta efizientzia: menuan nabigatzeko eta hasierara itzultzeko aukera ematen dizu.
+
+→Diseinu estetiko eta minimalista: beharrezko elementu soilik erakusten ditu, interfazea karga gehiegirik gabe mantenduz.
 
 ## <p align="center">--------------------ESTILO GIDA--------------------</p>
 
 ### ★Koloreak★
+
+→Texturako zuria erabiliko da eta fondorako beltza erabiliko da
 
 →Interfaze iluna edukiko du beraz kolore paleta iluna/hotzak erabiliko dira orrialdea sortu ahal izateko.
 Beltza: Hex
 #000000
 Zuria: Hex
 #FFFFFF
+
+<img width="1265" height="516" alt="image" src="https://github.com/user-attachments/assets/41b6722f-6704-4cd8-86bb-60e7f6e79555" />
+
 ### ★Tipografia★
 
-→Izenburuentzako Merriweather tipografia erabiliko dut.
+→Izenburuentzako Merriweather tipografia erabiliko da.
 
 →Izenburuak lodiz izango dira esta testuak baina pixka bat handiagoak izango dira.
 
-→Testu normala idazteko Raleway tipografia erabiliko dut.
+→Testu normala idazteko Raleway tipografia erabiliko da.
 
 ### ★Ikonoak★
 
-→Footer-ean sare sozialen ikonoak jarriko ditut.
+→Footer-ean sare sozialen ikonoak jarriko dira.
 
 →Orrialdeak favicon logoa edukiko du.
 
@@ -151,11 +167,17 @@ Zuria: Hex
 
 →Orrialda edukiko du gezi ikono bat orrialdeak gora egin ahal izateko.
 
+→Ikonoak jpg edo png formatuan izango dira.
+
+→Ikonoak tamaina txikia izango dute.
+
 ### ★Botoiak★
 
 →Menuko atal/aukera guztiak botoiak izango dira beste ataletara nabigatu ahal izateko.
 
 →Botoi honek ez dira oso handiak izango tipografiaren baina tamaina pixka bat gehiago edukiko dute.
+
+→Botoi fondoa beltza izango da, marko zuri bat edukiko du eta letra zuria izango da.
 
 ### ★Irudiak★
 
