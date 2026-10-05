@@ -2,27 +2,7 @@
 
 ## <p align="center">--------------------AURKIBIDEA--------------------</p>
 
-1. [Sarrera](#1-sarrera)
-2. [Benchmark](#2-benchmark)
-   2.1. [Ondorioak](#2.1-ondorioak)
-3. [User profila](#3-user-profila)
-   3.1. [Helburuak](#3.1-Helburuak)
-4. [Nabigazio mapa](#4-nabigazio-mapa)
-   4.1. [User flows](#4.1-User_flows)     
-5. [Krokisa](#4-krokisa)
-   5.1. [Eskritorioa](#5.1-eskritorioa)   
-   5.2. [Mugikor atala](#5.2-mugikor_atala)<br>
-6. [Nabigazio mapa](#5-nabigazio-mapa)
-   6.1. [User flows](#6.1-User_flows)   
-7. [Estilo gida](#7-estilo-gida)     
-   7.1. [Koloreak](#7.1-koloreak) <br>
-   7.2. [Tipografia](#7.2-tipografia) <br>
-   7.3. [Ikonoak](#7.3-ikonoak) <br>
-   7.4. [Botoiak](#7.4-botoiak) <br>
-   7.5. [Irudiak](#7.5-irudiak) <br>
-8. [Prototipoa](8-prototipoa)
-9. [Edukien lizentzia](#9-edukien-lizentzia)
-10. [Erabilgarritasunaren azterketa](#10-erabilgarritasunaren-azterketa)
+
    
 ## <p align="center">--------------------SARRERA--------------------</p>
 Orrialde honetan, zinema alternatibo eta independetearen inguruko komunitatearen ingurukoa izango da.
