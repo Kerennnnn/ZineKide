@@ -165,15 +165,10 @@ __Erabilgarritasuna__
 →Texturako zuria erabiliko da eta fondorako beltza erabiliko da
 
 →Interfaze iluna edukiko du beraz kolore paleta iluna/hotzak erabiliko dira orrialdea sortu ahal izateko.
-Beltza: Hex
-#000000
-Zuria: Hex
-#FFFFFF
-Gorria: Hex
-#FF4D4D
+#812E2E, #E2E2E2, #FF4D4D, #0B0B0B, #141414
 
+<img width="1200" height="760" alt="paleta-812E2E-E2E2E2-FF4D4D-0B0B0B-141414" src="https://github.com/user-attachments/assets/b40859c5-a2e1-41bd-a744-52d4bb3d1922" />
 
-<img width="1265" height="516" alt="image" src="https://github.com/user-attachments/assets/41b6722f-6704-4cd8-86bb-60e7f6e79555" />
 
 ### ★Tipografia★
 
