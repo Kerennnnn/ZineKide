@@ -2,6 +2,23 @@
 
 ## <p align="center">--------------------AURKIBIDEA--------------------</p>
 
+- [SARRERA](#sarrera)
+- [IKERKETA](#ikerketa)
+  - [★Benchmark★](#benchmark)
+  - [Ondorioak](#ondorioak)
+  - [★Userprofila★](#userprofila)
+  - [Helburuak](#helburuak)
+- [ARKITEKTURA](#arkitektura)
+  - [★Nabigazio mapa★](#nabigazio-mapa)
+  - [★User flows★](#user-flows)
+  - [★Krokisa★](#krokisa)
+  - [Erabilgarritasuna](#erabilgarritasuna)
+- [ESTILO GIDA](#estilo-gida)
+  - [★Koloreak★](#koloreak)
+  - [★Tipografia★](#tipografia)
+  - [★Ikonoak★](#ikonoak)
+  - [★Botoiak★](#botoiak)
+  - [★Irudiak★](#irudiak)
 
    
 ## <p align="center">--------------------SARRERA--------------------</p>
