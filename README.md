@@ -20,7 +20,6 @@
   - [★Botoiak★](#botoiak)
   - [★Irudiak★](#irudiak)
 
-   
 ## <p align="center">--------------------SARRERA--------------------</p>
 Orrialde honetan, zinema alternatibo eta independetearen inguruko komunitatearen ingurukoa izango da.
 bertan, streaming emanaldiak egongo dira ikusi ahal izateko eta kontu bat sortzen baldin baduzu, aukera
