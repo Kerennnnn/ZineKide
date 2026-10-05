@@ -169,6 +169,9 @@ Beltza: Hex
 #000000
 Zuria: Hex
 #FFFFFF
+Gorria: Hex
+#FF4D4D
+
 
 <img width="1265" height="516" alt="image" src="https://github.com/user-attachments/assets/41b6722f-6704-4cd8-86bb-60e7f6e79555" />
 
@@ -204,7 +207,7 @@ Zuria: Hex
 
 →Botoi honek ez dira oso handiak izango tipografiaren baina tamaina pixka bat gehiago edukiko dute.
 
-→Botoi fondoa beltza izango da, marko zuri bat edukiko du eta letra zuria izango da.
+→Botoi fondoa gorria izango da eta eta letra beltza izango du.
 
 ### ★Irudiak★
 
