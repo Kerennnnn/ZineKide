@@ -165,10 +165,9 @@ __Mugikor formatua__
 
 →Interfaze iluna edukiko du beraz kolore paleta iluna/hotzak erabiliko dira orrialdea sortu ahal izateko.
 
-#812E2E, #E2E2E2, #FF4D4D, #0B0B0B, #141414
+→Botoi fondoa gorria izango da eta eta letra beltza izango du.
 
 <img width="1200" height="760" alt="paleta-812E2E-E2E2E2-FF4D4D-0B0B0B-141414" src="https://github.com/user-attachments/assets/b40859c5-a2e1-41bd-a744-52d4bb3d1922" />
-
 
 ### ★Tipografia★
 
@@ -201,8 +200,6 @@ __Mugikor formatua__
 →Menuko atal/aukera guztiak botoiak izango dira beste ataletara nabigatu ahal izateko.
 
 →Botoi honek ez dira oso handiak izango tipografiaren baina tamaina pixka bat gehiago edukiko dute.
-
-→Botoi fondoa gorria izango da eta eta letra beltza izango du.
 
 ### ★Irudiak★
 
