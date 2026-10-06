@@ -5,14 +5,14 @@
 - [SARRERA](#sarrera)
 - [IKERKETA](#ikerketa)
   - [★Benchmark★](#benchmark)
-  - [Ondorioak](#ondorioak)
+  - [★Ondorioak★](#ondorioak)
   - [★Userprofila★](#userprofila)
-  - [Helburuak](#helburuak)
+  - [★Helburuak★](#helburuak)
 - [ARKITEKTURA](#arkitektura)
   - [★Nabigazio mapa★](#nabigazio-mapa)
   - [★User flows★](#user-flows)
   - [★Krokisa★](#krokisa)
-  - [Erabilgarritasuna](#erabilgarritasuna)
+  - [★Erabilgarritasuna★](#erabilgarritasuna)
 - [ESTILO GIDA](#estilo-gida)
   - [★Koloreak★](#koloreak)
   - [★Tipografia★](#tipografia)
@@ -34,7 +34,7 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 | **MUBI** | Zinema independentea eta autore-zinema, katalogo zaindua | Identitate bisuala eta filmen aurkezpena | [Ikusi](https://mubi.com/es/us)
 | **Filmin** | Zinema independentea, europarra eta klasikoa | Katalogoaren antolaketa eta filmen sailkapena | [Ikusi](https://www.filmin.es/)
 
-### Ondorioak
+### ★Ondorioak★
 
 **Netflix**-etik, nabigazio sinplea eta edukien antolaketa.
 **MUBI**-tik, zinema independentearen presentzia eta diseinu bisuala.
@@ -62,7 +62,7 @@ Zinekideren erabiltzaile nagusia zinema gustuko duen eta zinema independentea et
 
 →Ekitaldien egutegia kontsultatzea.
 
-### Helburuak
+### ★Helburuak★
 
 →Film independente berriak aurkitzea.
 
@@ -145,7 +145,7 @@ __Mugikor formatua__
 
 <img width="1312" height="1199" alt="c0d76f43-4ef6-4f40-9f19-02fc7f49449d" src="https://github.com/user-attachments/assets/2cff49b1-672a-4412-b123-d3d0257277df" />
 
-### Erabilgarritasuna
+### ★Erabilgarritasuna★
 
 →Sistemaren eta mundu errealaren arteko erlazioa: erabiltzaileek ezagutzen dituzten 'Like', 'Comment', 'Share' eta 'Account' bezalako terminoak eta ekintzak erabiltzen ditu.
 
