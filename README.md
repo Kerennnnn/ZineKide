@@ -34,7 +34,7 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 | **MUBI** | Zinema independentea eta autore-zinema, katalogo zaindua | Identitate bisuala eta filmen aurkezpena | [Ikusi](https://mubi.com/es/us)
 | **Filmin** | Zinema independentea, europarra eta klasikoa | Katalogoaren antolaketa eta filmen sailkapena | [Ikusi](https://www.filmin.es/)
 
-__<ins>Ondorioak</ins>__
+### Ondorioak
 
 **Netflix**-etik, nabigazio sinplea eta edukien antolaketa.
 **MUBI**-tik, zinema independentearen presentzia eta diseinu bisuala.
@@ -62,7 +62,7 @@ Zinekideren erabiltzaile nagusia zinema gustuko duen eta zinema independentea et
 
 →Ekitaldien egutegia kontsultatzea.
 
-__<ins>Helburuak</ins>__
+### Helburuak
 
 →Film independente berriak aurkitzea.
 
@@ -145,7 +145,7 @@ __Mugikor formatua__
 
 <img width="1312" height="1199" alt="c0d76f43-4ef6-4f40-9f19-02fc7f49449d" src="https://github.com/user-attachments/assets/2cff49b1-672a-4412-b123-d3d0257277df" />
 
-__Erabilgarritasuna__
+### Erabilgarritasuna
 
 →Sistemaren eta mundu errealaren arteko erlazioa: erabiltzaileek ezagutzen dituzten 'Like', 'Comment', 'Share' eta 'Account' bezalako terminoak eta ekintzak erabiltzen ditu.
 
