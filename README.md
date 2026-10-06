@@ -28,11 +28,11 @@ aukera emango da pelikulen zuzendariekin elkarrizketa esklusiboak egin ahal izat
 
 ## <p align="center">--------------------IKERKETA--------------------</p>
 ### ★Benchmark★
-| Plataforma | Ezaugarri nagusiak | Zinekiderako interesgarria |
-|---|---|---|
-| **Netflix** | Streaming-a, bilaketa, kategoriak eta gomendio pertsonalizatuak | Nabigazio erraza eta edukien antolaketa |
-| **MUBI** | Zinema independentea eta autore-zinema, katalogo zaindua | Identitate bisuala eta filmen aurkezpena |
-| **Filmin** | Zinema independentea, europarra eta klasikoa | Katalogoaren antolaketa eta filmen sailkapena |
+| Webgunea | Indarguneak | Ahuleziak | Esteka |
+| :--- | :--- | :--- | :--- |
+| **Netflix** | Streaming-a, bilaketa, kategoriak eta gomendio pertsonalizatuak | Nabigazio erraza eta edukien antolaketa | [Ikusi](https://www.netflix.com/es)
+| **MUBI** | Zinema independentea eta autore-zinema, katalogo zaindua | Identitate bisuala eta filmen aurkezpena | [Ikusi](https://mubi.com/es/us)
+| **Filmin** | Zinema independentea, europarra eta klasikoa | Katalogoaren antolaketa eta filmen sailkapena | [Ikusi](https://www.filmin.es/)
 
 __<ins>Ondorioak</ins>__
 
