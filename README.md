@@ -19,7 +19,9 @@
   - [★Ikonoak★](#ikonoak)
   - [★Botoiak★](#botoiak)
   - [★Irudiak★](#irudiak)
-- [DEMOA](#demoa)
+- [EDUKIEN LIZENTZIA](#erabilgarritasuna)
+- [ERABILGARRITASUNAREN AZTERKETA](#erabilgarritasuna)
+- [PROTOTIPOA](#prototipoa)
 
 ## <p align="center">--------------------SARRERA--------------------</p>
 Orrialde honetan, zinema alternatibo eta independetearen inguruko komunitatearen ingurukoa izango da.
@@ -146,18 +148,6 @@ __Mugikor formatua__
 
 <img width="1312" height="1199" alt="c0d76f43-4ef6-4f40-9f19-02fc7f49449d" src="https://github.com/user-attachments/assets/2cff49b1-672a-4412-b123-d3d0257277df" />
 
-### ★Erabilgarritasuna★
-
-→Sistemaren eta mundu errealaren arteko erlazioa: erabiltzaileek ezagutzen dituzten 'Like', 'Comment', 'Share' eta 'Account' bezalako terminoak eta ekintzak erabiltzen ditu.
-
-→Sendotasuna eta estandarrak: elementu desberdinentzako egitura bisual koherentea.
-
-→Ezagutzea, gogoratzea baino hobeto: aukera nagusiak argi ikus daitezke eta ez diote erabiltzaileari komandoak gogoratu beharrik uzten.
-
-→Erabilera malgutasuna eta efizientzia: menuan nabigatzeko eta hasierara itzultzeko aukera ematen dizu.
-
-→Diseinu estetiko eta minimalista: beharrezko elementu soilik erakusten ditu, interfazea karga gehiegirik gabe mantenduz.
-
 ## <p align="center">--------------------ESTILO GIDA--------------------</p>
 
 ### ★Koloreak★
@@ -210,5 +200,52 @@ __Mugikor formatua__
 
 →Orriaren eduki irudiak handiagoak izango dira ondo ikus ahal izateko.
 
-## <p align="center">--------------------DEMOA--------------------</p>
+## <p align="center">--------------------EDUKIEN LIZENTZIA--------------------</p>
+
+Tipografia:
+
+→Google Fonts erabiliko da letra motarentzat. Hau kode irekiko lizentzia da, dohakoa.
+
+Ikonoak:
+
+→BootStrap Icons erabiliko da. Hau 2000 ikonoz goraztik osatutako kode irekiko, dohakoa eta kalitate handiko erraminta da. Ordainketa ikonoak visa txartela etab... Banku pasarelak samurtutakoak izango dira.
+
+Irudiak:
+
+→Webgune honetarako irudi portzentai handiena zinema kartelerak eta ateratako argazkiak izango dira, hauen irudiak, zinemako argazki arduradunak erraztuko ditu. Arduradun hauek izango direlarik lizentziaren arduradunak.
+
+Web orrialdea:
+
+→Web orrialde hau CC-BY-NC lizentzia izango du, pertsonak jatorrizko lana partekatu, egokitu eta horretan oinarritutako lanak sor ditzake, baldin eta egileari aitorpena egiten badio eta lana ez badu helburu komertzialekin erabiltzen. 
+
+## <p align="center">--------------------ERABILGARRITASUNAREN AZTERKETA--------------------</p>
+
+→Sistemaren eta mundu errealaren arteko erlazioa: erabiltzaileek ezagutzen dituzten 'Like', 'Comment', 'Share' eta 'Account' bezalako terminoak eta ekintzak erabiltzen ditu.
+
+→Sendotasuna eta estandarrak: elementu desberdinentzako egitura bisual koherentea.
+
+→Ezagutzea, gogoratzea baino hobeto: aukera nagusiak argi ikus daitezke eta ez diote erabiltzaileari komandoak gogoratu beharrik uzten.
+
+→Erabilera malgutasuna eta efizientzia: menuan nabigatzeko eta hasierara itzultzeko aukera ematen dizu.
+
+→Diseinu estetiko eta minimalista: beharrezko elementu soilik erakusten ditu, interfazea karga gehiegirik gabe mantenduz.
+
+## <p align="center">--------------------PROTOTIPOA--------------------</p>
+
 [Esteka](https://www.figma.com/design/l1MEqTy1dToPld67jAebnu/ZineKide?node-id=0-1&p=f&t=DzYoFYNvR0hiMI9G-0)
+
+## <p align="center">--------------------BIBLIOGRAFIA--------------------</p>
+
+→[NETFLIX](https://www.netflix.com/es)
+
+→[MUBI](https://mubi.com/es/us)
+
+→[FILMIN](https://www.filmin.es/)
+
+→[LIZENTZIA MOTAK](https://es.wikipedia.org/wiki/Licencias_Creative_Commons)
+
+→[KOLOREAK](https://paletadecolores.org/)
+
+→[TIPOGRAFIA](https://fonts.google.com/)
+
+→[FIGMA](https://www.figma.com/es-es/)
