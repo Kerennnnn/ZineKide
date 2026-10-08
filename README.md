@@ -19,6 +19,7 @@
   - [★Ikonoak★](#ikonoak)
   - [★Botoiak★](#botoiak)
   - [★Irudiak★](#irudiak)
+- [DEMOA](#demoa)
 
 ## <p align="center">--------------------SARRERA--------------------</p>
 Orrialde honetan, zinema alternatibo eta independetearen inguruko komunitatearen ingurukoa izango da.
@@ -209,4 +210,5 @@ __Mugikor formatua__
 
 →Orriaren eduki irudiak handiagoak izango dira ondo ikus ahal izateko.
 
-
+## <p align="center">--------------------DEMOA--------------------</p>
+[Esteka](https://www.figma.com/design/l1MEqTy1dToPld67jAebnu/ZineKide?node-id=0-1&p=f&t=DzYoFYNvR0hiMI9G-0)
