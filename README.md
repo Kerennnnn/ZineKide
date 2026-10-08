@@ -19,9 +19,10 @@
   - [★Ikonoak★](#ikonoak)
   - [★Botoiak★](#botoiak)
   - [★Irudiak★](#irudiak)
-- [EDUKIEN LIZENTZIA](#erabilgarritasuna)
-- [ERABILGARRITASUNAREN AZTERKETA](#erabilgarritasuna)
+- [EDUKIEN LIZENTZIA](#edukien_lizentzia)
+- [ERABILGARRITASUNAREN AZTERKETA](#erabilgarritasunaren_azterketa)
 - [PROTOTIPOA](#prototipoa)
+- [BIBLIOGRAFIA](#bibliografia)
 
 ## <p align="center">--------------------SARRERA--------------------</p>
 Orrialde honetan, zinema alternatibo eta independetearen inguruko komunitatearen ingurukoa izango da.
