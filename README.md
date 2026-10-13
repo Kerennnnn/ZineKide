@@ -157,7 +157,7 @@ __Mugikor formatua__
 | :--- | :--- | :---: | :--- |
 | **Lehena** | Ia beltz purua | #0B0B0B | Gune publikoko atzealde iluna darkmode-rako. |
 | **Bigarrena** | Gris oso iluna  | #141414 | Textu koadroak ezberdindu ahal izateko fondotik kolore tono argiago bat |
-| **Botoiak** | Terrakota iluna | #812E2E | Botoien kolorea izango da, honek kontrastea egingo du kolore ilunekin orrialdea pixka biziagoa egiteko |
+| **Botoiak** | Scarlet sunrise | #FF4D4D | Botoien kolorea izango da, honek kontrastea egingo du kolore ilunekin orrialdea pixka biziagoa egiteko |
 | **Testua** | Gris argia  | #E2E2E2  | Irakurgarritasun handia, ilunarekin kontrastea argia edukitzeko. |
 
 →Texturako zuria erabiliko da eta gris oso iluna beltza erabiliko da
