@@ -166,7 +166,7 @@ __Mugikor formatua__
 
 →Botoi fondoa terrakota iluna izango da eta eta letra gris argia izango du.
 
-<img width="1200" height="760" alt="paleta-812E2E-E2E2E2-FF4D4D-0B0B0B-141414" src="https://github.com/user-attachments/assets/b40859c5-a2e1-41bd-a744-52d4bb3d1922" />
+<img width="794" height="537" alt="image" src="https://github.com/user-attachments/assets/82b5f527-e81f-4681-9123-f84377521870" />
 
 ### ★Tipografia★
 
