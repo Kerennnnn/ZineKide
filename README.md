@@ -224,7 +224,7 @@ Irudiak:
 
 Web orrialdea:
 
-→Web orrialde hau CC-BY-NC lizentzia izango du, pertsonak jatorrizko lana partekatu, egokitu eta horretan oinarritutako lanak sor ditzake, baldin eta egileari aitorpena egiten badio eta lana ez badu helburu komertzialekin erabiltzen. 
+→Web orrialde hau CC-BY-NC lizentzia izango du, pertsonak jatorrizko lana partekatu, egokitu eta horretan oinarritutako lanak sor ditzake, baldin eta egileari aitorpena egiten badio eta lana ez badu helburu komertzialekin erabiltzen. (Creative Commons lizentzia ez komertziala) 
 
 ## <p align="center">--------------------ERABILGARRITASUNAREN AZTERKETA--------------------</p>
 
