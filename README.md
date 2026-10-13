@@ -1,4 +1,4 @@
-# <p align="center">❀Zinekide❀</p>
+# <p align="center">❀Zinekide (Zinema Independentearen Kluba) ❀</p>
 
 ## <p align="center">--------------------AURKIBIDEA--------------------</p>
 
